@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">FavMovies</string>
+
+    <string name="moviename1">Ada Apa Dengan Cinta?</string>
+    <string name="deskripsi1">"Ada Apa Dengan Cinta?" adalah film klasik Indonesia yang mengisahkan tentang percintaan remaja di masa SMA. Cerita ini mengikuti kisah Cinta dan Rangga yang kembali bertemu setelah berpisah beberapa tahun. Film ini menggambarkan persahabatan, cinta, dan pertumbuhan pribadi dengan indah, serta memberikan gambaran tentang masa muda yang penuh emosi.</string>
+
+    <string name="movies_name">Nama Film</string>
+    <string name="Rate">Rating</string>
+    <string name="description">Deskripsi</string>
+    <string name="share">Bagikan</string>
+
+    <string name="self">Alexander Dwi Putra Gultom</string>
+    <string name="email">aleand1605@gmail.com</string>
+
+    <string name="profile">About</string>
+
+    <string-array name="data_name">
+        <item>Ada Apa Dengan Cinta?</item>
+        <item>Laskar Pelangi</item>
+        <item>Gie</item>
+        <item>Ada Apa Dengan Cinta 2?</item>
+        <item>Pengabdi Setan</item>
+        <item>Perempuan Berkalung Sorban</item>
+        <item>Rudy Habibie</item>
+        <item>Janji Joni</item>
+        <item>Hujan Bulan Juni</item>
+        <item>Kartini</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>"Ada Apa Dengan Cinta?" adalah film klasik Indonesia yang mengisahkan tentang percintaan remaja di masa SMA. Cerita ini mengikuti kisah Cinta dan Rangga yang kembali bertemu setelah berpisah beberapa tahun. Film ini menggambarkan persahabatan, cinta, dan pertumbuhan pribadi dengan indah, serta memberikan gambaran tentang masa muda yang penuh emosi.</item>
+        <item>"Laskar Pelangi" adalah adaptasi dari novel terkenal Andrea Hirata. Film ini mengangkat kisah perjuangan sekelompok anak muda di Pulau Belitong untuk mendapatkan pendidikan. Mereka menghadapi berbagai rintangan dalam mencari pengetahuan dan menginspirasi dengan semangat mereka yang tinggi.</item>
+        <item>"Gie" adalah biografi tentang Soe Hok Gie, seorang aktivis dan intelektual Indonesia yang dikenal karena perannya dalam pergerakan sosial dan politik pada tahun 1960-an. Film ini menggambarkan pemikiran dan perjuangan Soe Hok Gie dalam mencari keadilan dan perubahan dalam masyarakat.</item>
+        <item>"AADC 2" adalah kelanjutan dari film "Ada Apa Dengan Cinta?" yang populer. Film ini mengambil cerita beberapa tahun setelah film pertama dan menghadirkan pertanyaan tentang cinta, pertemanan, dan perubahan dalam kehidupan karakter utama.</item>
+        <item>"Pengabdi Setan" adalah film horor yang mengisahkan tentang keluarga yang diganggu oleh kehadiran supranatural setelah kematian ibu mereka. Film ini berhasil menggabungkan elemen horor tradisional dengan narasi yang kuat, membuatnya menjadi salah satu film horor terkenal di Indonesia.</item>
+        <item>Film ini menceritakan kisah seorang perempuan muda, Maryam, yang memutuskan untuk mengejar pendidikan tinggi dalam agama Islam meskipun berhadapan dengan tradisi konservatif di keluarganya. Ini adalah kisah tentang perjuangan untuk mendapatkan pengetahuan dan hak atas pendidikan dalam lingkungan yang konservatif.</item>
+        <item>"Rudy Habibie" adalah film biografi tentang Rudy Habibie, yang kemudian menjadi Presiden ketiga Republik Indonesia. Film ini menggambarkan perjalanan Rudy dari masa kecilnya di Jerman hingga menjadi seorang insinyur penerbangan yang terkenal, serta hubungannya dengan cinta pertamanya, Ainun.</item>
+        <item>"Janji Joni" adalah komedi romantis yang mengisahkan kisah Joni, seorang kurir sepeda motor, yang terjebak dalam serangkaian kejadian lucu saat mencoba memenuhi janji-janji kepada berbagai pelanggan eksentriknya. Film ini menyajikan humor dan pesan tentang kejujuran dan tanggung jawab.</item>
+        <item>Film ini mengadaptasi novel karya Sapardi Djoko Damono dan mengisahkan tentang percintaan antara dua penyair muda, Elang dan Kinara. Mereka menjalani hubungan yang dipenuhi dengan puisi dan emosi, sementara menghadapi cobaan dalam kehidupan mereka.</item>
+        <item>"Kartini" adalah film biografi tentang Raden Ajeng Kartini, seorang tokoh perempuan terkenal di Indonesia yang berjuang untuk hak-hak perempuan dan pendidikan pada awal abad ke-20. Film ini menggambarkan perjuangan Kartini dalam mewakili aspirasi perempuan Indonesia dan perannya dalam memajukan pendidikan.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/movie1</item>
+        <item>@drawable/movie2</item>
+        <item>@drawable/movie3</item>
+        <item>@drawable/movie4</item>
+        <item>@drawable/movie5</item>
+        <item>@drawable/movie6</item>
+        <item>@drawable/movie7</item>
+        <item>@drawable/movie8</item>
+        <item>@drawable/movie9</item>
+        <item>@drawable/movie10</item>
+    </integer-array>
+
+    <string-array name="data_rate">
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★☆☆</item>
+        <item>★★★★☆</item>
+        <item>★★★☆☆</item>
+        <item>★★★★★</item>
+        <item>★★★☆☆</item>
+        <item>★★★★☆</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+    </string-array>
+
+</resources>
